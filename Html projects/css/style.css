@@ -1,0 +1,40 @@
+h5{
+   color:black;
+   background:gray;
+   
+}
+body{
+	 text-align:center;
+	 	
+}
+h2{
+	text-shadow:1px 1px gray;
+	box-shadow:3px 3px 3px black;
+}
+
+.cont1{
+      background:linear-gradient(to right,	 #d9b3ff, #4d0099);
+      
+}
+
+.container{
+	text-align:center;
+	
+}
+.container2
+{
+		background:linear-gradient(#3399ff , #99ccff);
+	
+
+}
+.p-box{
+	width:800px;
+	height:500px;
+	background-image:url('../images/bgimage.avif'); 
+}
+.mac{
+	background:linear-gradient(#3399ff , #99ccff);
+}
+.img{
+	background:gray;
+}
